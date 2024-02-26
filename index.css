@@ -14,11 +14,25 @@ h1 {
   margin-top: 20px;
   margin-bottom: 0px;
   color: #00adb5;
+  text-align: center;
+  line-height: 80px;
 }
 .para h2 {
   font-family: "Arvo", serif;
   color: #00adb5;
   margin-bottom: 0px;
+}
+.mont,
+h2 {
+  font-family: "Montserrat", sans-serif;
+  margin: 0px 0px;
+  font-weight: 400;
+  color: #00adb5;
+}
+.Testimonial {
+  color: aliceblue;
+  font-weight: 400;
+  padding: 0px 12px;
 }
 
 .slmbk-container {
